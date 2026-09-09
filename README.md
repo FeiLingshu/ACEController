@@ -23,7 +23,30 @@
 > - __如系统中逻辑处理器数量超过`64`（去任务管理器里数框框），请不要使用本程序，`Windows` 相关函数无法对该情况提供支持__  
 > ___由于反作弊进程具有极高权限，程序无法确保自身在所有情况下均能正常工作，望周知___
 
+---
+
 ### 附加功能
 
 - __允许自定义CPU核心绑定，具体操作详见：[https://www.bilibili.com/opus/1093470236590473287](https://www.bilibili.com/opus/1093470236590473287)__
+> ___以上为上个版本程序的教程，但操作流程未变更，只需将旧版的exe文件当成新版的exe看就行了___
 - __程序监测到反作弊启动后，会生成一个窗口，展示反作弊进程相关信息（其中 `File Load Speed` 项目为估算值，仅供参考）__
+
+<blockquote>
+  <div align="Left">
+    <img src="./popup.png" alt="GWCT UI" />
+  </div>
+  <strong>&nbsp;&nbsp;· UI 效果图</strong>
+</blockquote>
+
+> ___不要通过任何方式关闭这个窗口，手动关闭会导致工具本体进程直接退出___
+
+---
+
+### __运行环境__
+
+<pre><code>需要 .Net Framework 4.8 运行时
+下载链接：<a href="https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net48">https://dotnet.microsoft.com/zh-cn/download/dotnet-framework/net48</a>
+注意：
+  · 普通用户选择"运行时"版本即可
+  · 如需自行编译，则需安装"开发包"
+  · 如使用"脱机安装程序"，则需自行下载对应的地区语言包</code></pre>
