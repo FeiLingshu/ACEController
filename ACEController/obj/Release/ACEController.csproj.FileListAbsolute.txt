@@ -1,0 +1,7 @@
+C:\FeiLingshu\Desktop\ACEController\ACEController\bin\Release\ACEController.exe.config
+C:\FeiLingshu\Desktop\ACEController\ACEController\bin\Release\ACEController.exe
+C:\FeiLingshu\Desktop\ACEController\ACEController\bin\Release\ACEController.pdb
+C:\FeiLingshu\Desktop\ACEController\ACEController\obj\Release\ACEController.csproj.AssemblyReference.cache
+C:\FeiLingshu\Desktop\ACEController\ACEController\obj\Release\ACEController.csproj.CoreCompileInputs.cache
+C:\FeiLingshu\Desktop\ACEController\ACEController\obj\Release\ACEController.exe
+C:\FeiLingshu\Desktop\ACEController\ACEController\obj\Release\ACEController.pdb
